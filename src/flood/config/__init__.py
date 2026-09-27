@@ -1,0 +1,1 @@
+"""Configuration layer: schema, loader, transport registry."""
