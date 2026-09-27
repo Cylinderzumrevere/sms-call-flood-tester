@@ -1,0 +1,1 @@
+"""Domain models: request, target, and payload shapes."""
